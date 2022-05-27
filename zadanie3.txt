@@ -15,3 +15,11 @@ Jeśli chcesz sklonować repozytorium do katalogu o nazwie innej niż libgit2, m
 git clone https://github.com/libgit2/libgit2 mylibgit
 ```
 Powyższe polecenie robi dokładnie to samo, co poprzednie, ale wszystkie pliki umieszcza w katalogu mylibgit.
+
+---
+
+Repozytorium klonujesz używając polecenia git clone [URL]. Na przykład jeśli chcesz sklonować bibliotekę Rubiego do Gita o nazwie Grit, możesz to zrobić wywołując:
+```
+git clone https://github.com/libgit2/libgit2
+```
+Tworzony jest katalog o nazwie „libgit2”, następnie wewnątrz niego inicjowany jest podkatalog .git, pobierane są wszystkie dane z repozytorium, a kopia robocza przełączona zostaje na ostatnią wersję. Jeśli wejdziesz do świeżo utworzonego katalogu libgit2, zobaczysz wewnątrz pliki projektu, gotowe do użycia i pracy z nimi.
