@@ -1,3 +1,4 @@
+
 # Inicjalizacja Gita w istniejącym katalogu
 
 Jeśli chcesz rozpocząć śledzenie zmian w plikach istniejącego projektu, musisz przejść do katalogu projektu i wykonać polecenie
