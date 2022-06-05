@@ -33,4 +33,4 @@
 
 ---
 
-# tutaj wstaw swoje imię: Pawel
+# tutaj wstaw swoje imię: Paweł
