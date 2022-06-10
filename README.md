@@ -33,4 +33,5 @@
 
 ---
 
-Aneta:
+wpisz swoje imie:
+Aneta Kot
