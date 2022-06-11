@@ -33,4 +33,5 @@
 
 ---
 
-# tutaj wstaw swoje imię:
+wpisz swoje imie:
+Aneta Kot
